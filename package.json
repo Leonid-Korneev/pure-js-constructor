@@ -1,0 +1,15 @@
+{
+  "name": "js-constructor",
+  "version": "1.0.0",
+  "description": "pure js",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Leonid <lkorneev98@rambler.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
